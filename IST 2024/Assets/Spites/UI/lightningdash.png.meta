@@ -1,0 +1,963 @@
+fileFormatVersion: 2
+guid: d0940de43552e8547a2f89d4f7154266
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lightningdash_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1116
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5100bc6cc3470bb4faacc53311ca9818
+      internalID: 345742015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1116
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d337ee72cdba2f54abf5f0fc914242c0
+      internalID: 1708512230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1116
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724aa00e5ac64124b9910c435e5a2ec5
+      internalID: 1633241692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1116
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d645f5fd43ac849adb34fd380f7416
+      internalID: -1232269684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e858a092ea7848438a4415308e3f858
+      internalID: 478123731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 992
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d3cc53ec3571d49a8bde2029847eb7
+      internalID: -794728757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 992
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7986f4a52ba40f46a7989e1d0411348
+      internalID: -2063686423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 992
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045ff2c1e2879aa478110e19bc24c19c
+      internalID: -416979050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 868
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8dfbb357cb1ca46ae82f72213fc4b4
+      internalID: -323265273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 868
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479425f31a21fda49a26c26e803de5b7
+      internalID: 651633792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 868
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60628b7364013546b2ecdef0f92a96e
+      internalID: -1496138866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 868
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67826543394850a45900ebaa48a56216
+      internalID: 456657512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4998bf13bda05774b9ac66beb0cac7ab
+      internalID: -249845981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 744
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ebdf77da61bb74ebe8f4cf2c26868b
+      internalID: -1571452893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 744
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceed60f99fa336342aae952c010575da
+      internalID: -1466865769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 744
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc065564e02e70e4f9fa07c2b57aa998
+      internalID: 949970673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54573a96e246724bb1529d96edf38cf
+      internalID: -918601291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 620
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e1517798e35734fb7af39b3538d330
+      internalID: 412450824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 620
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc929ee04b8c3c4d9edf3d680fec4fc
+      internalID: 584224847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 620
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f4e41c8a0fbb348875b216b479fdc8
+      internalID: 631013210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae145290af9a584fb7ea240fb2a2589
+      internalID: 1676746376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 496
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a01d3a5b573f3d489474844049f0a4e
+      internalID: -1120798685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 496
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3b0976fd0b3be418a0727f9241ca10
+      internalID: -382292073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 496
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6d44199f760f6449f5e9f68064a232
+      internalID: 1478113350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95361b4439d4d1744812dc5cce6ce4db
+      internalID: 1510612926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 372
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb6bbd30dfbfca45b5fd9ec0e8ca0d4
+      internalID: 1927357283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 372
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fea972f93bbad24a997e35bb7321d88
+      internalID: -358372563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 372
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9df060efe8b1f40bbd497e56e5cc53
+      internalID: 992139124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b8dd31e7421a34591e1ef4e53352e4
+      internalID: -1727766645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 248
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9515bf4d5867d774286d7026bae98db6
+      internalID: -1734006095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 248
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d300a2b3b0ed2e4a8d773029ba02dfc
+      internalID: -1886746487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 248
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb0fc25656813440856d5d7cd3daf65
+      internalID: -652890080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19575de55af64544fbcf614078eb0a3c
+      internalID: -1676029828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 124
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20e43644ab283c4299b80a59e472210
+      internalID: -1623207280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 124
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d39ece982ef01e448607ed97a142e52
+      internalID: -991680490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_35
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 124
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840d92a28b1879c498c372dd72019e8c
+      internalID: 1003746338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9055dbe1b7edeb744ab6e1fc4114fbef
+      internalID: -1932530562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightningdash_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365ff12e6a6deaa479c968c742df2ad3
+      internalID: 916519510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      lightningdash_0: 345742015
+      lightningdash_1: 1708512230
+      lightningdash_10: -1496138866
+      lightningdash_11: 456657512
+      lightningdash_12: -249845981
+      lightningdash_13: -1571452893
+      lightningdash_14: -1466865769
+      lightningdash_15: 949970673
+      lightningdash_16: -918601291
+      lightningdash_17: 412450824
+      lightningdash_18: 584224847
+      lightningdash_19: 631013210
+      lightningdash_2: 1633241692
+      lightningdash_20: 1676746376
+      lightningdash_21: -1120798685
+      lightningdash_22: -382292073
+      lightningdash_23: 1478113350
+      lightningdash_24: 1510612926
+      lightningdash_25: 1927357283
+      lightningdash_26: -358372563
+      lightningdash_27: 992139124
+      lightningdash_28: -1727766645
+      lightningdash_29: -1734006095
+      lightningdash_3: -1232269684
+      lightningdash_30: -1886746487
+      lightningdash_31: -652890080
+      lightningdash_32: -1676029828
+      lightningdash_33: -1623207280
+      lightningdash_34: -991680490
+      lightningdash_35: 1003746338
+      lightningdash_36: -1932530562
+      lightningdash_37: 916519510
+      lightningdash_4: 478123731
+      lightningdash_5: -794728757
+      lightningdash_6: -2063686423
+      lightningdash_7: -416979050
+      lightningdash_8: -323265273
+      lightningdash_9: 651633792
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

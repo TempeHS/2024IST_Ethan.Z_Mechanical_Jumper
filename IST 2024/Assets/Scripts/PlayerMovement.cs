@@ -27,7 +27,6 @@ public class PlayerMovement : MonoBehaviour
 [SerializeField] private Rigidbody2D rb;
 [SerializeField] private Transform groundCheck;
 [SerializeField] private LayerMask groundLayer;
-[SerializeField] private TrailRenderer tr;
 [SerializeField] private Transform wallCheck;
 [SerializeField] private LayerMask wallLayer;
 
@@ -125,9 +124,7 @@ public class PlayerMovement : MonoBehaviour
         float originalGravity = rb.gravityScale;
         rb.gravityScale = 0f;
         rb.velocity = new Vector2(transform.localScale.x * dashingPower, 0f);
-        tr.emitting = true;
         yield return new WaitForSeconds(dashingTime);
-        tr.emitting = false;
         rb.gravityScale = originalGravity;
         isDashing = false;
         yield return new WaitForSeconds(dashingCooldown);
