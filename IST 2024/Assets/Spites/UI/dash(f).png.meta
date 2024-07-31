@@ -108,7 +108,238 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: dash(f)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39be96f0bf9e64042be1ee90167a9198
+      internalID: -1518981833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dash(f)_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 372
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c064b677c9d544989120a29f98e7bf
+      internalID: -147839787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dash(f)_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 372
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647ac222447b9ae4f91392a7726b7f61
+      internalID: -1252108130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dash(f)_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82d334288b7e4946bf31d502bb9c370
+      internalID: -96056389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dash(f)_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 248
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d965f518be8edb44e936296b640e9d6f
+      internalID: 1047866914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dash(f)_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 248
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26145b42b2c448c4eb5ab1f31cb1a355
+      internalID: 1347308038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dash(f)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9523fdb79ef544db4272efca903802
+      internalID: 2127129933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dash(f)_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 124
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449f8d9ed1469aa4988c5a64a441a518
+      internalID: -720666906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dash(f)_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 124
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9454296dc2e5f546ba527b2fb927722
+      internalID: 1759562522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dash(f)_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4ed3e15eb88964e84e36494e8575dc
+      internalID: 1945683856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dash(f)_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaae74e34bc4b64093cd5c760ce2ebb
+      internalID: -2114623037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +350,18 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dash(f)_0: -1518981833
+      dash(f)_1: -147839787
+      dash(f)_10: -2114623037
+      dash(f)_2: -1252108130
+      dash(f)_3: -96056389
+      dash(f)_4: 1047866914
+      dash(f)_5: 1347308038
+      dash(f)_6: 2127129933
+      dash(f)_7: -720666906
+      dash(f)_8: 1759562522
+      dash(f)_9: 1945683856
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
