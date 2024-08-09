@@ -108,7 +108,343 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: downslam(lightning)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 124
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d85e7de73d77f41a944c6633bd879c
+      internalID: -1965426270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downslam(lightning)_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 320
+        width: 124
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c827808f68aa9324884506ce1f059e4c
+      internalID: 75171427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downslam(lightning)_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 320
+        width: 124
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14b664984e01324f958ae316c447c77
+      internalID: 196793276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downslam(lightning)_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 124
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea23502929d14cc4a8cd6798e2fb5a5a
+      internalID: -1242436664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downslam(lightning)_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 256
+        width: 124
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f636b1edade92f34aa7eda6b6266dd3c
+      internalID: -1835040795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downslam(lightning)_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 256
+        width: 124
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076a867abb3628741a71d518e3a61842
+      internalID: -116041240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downslam(lightning)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 124
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31a43673b2ad304cb0f390bf573a069
+      internalID: 600072290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downslam(lightning)_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 192
+        width: 124
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bebf304beee44418dccdd2c94e72a9
+      internalID: 93599022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downslam(lightning)_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 192
+        width: 124
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0261d8ee362fc8140ac975ca6627cddd
+      internalID: -1095851523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downslam(lightning)_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 124
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703f4addbae720447959d1e8d1a4e228
+      internalID: -892024986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downslam(lightning)_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 128
+        width: 124
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9eac0045b0d3d4fb4f51774c25381b
+      internalID: -343611780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downslam(lightning)_11
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 128
+        width: 124
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da3683ab6176bf4cac18765090503cd
+      internalID: -1787431710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downslam(lightning)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 124
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ba47f787ac337429df0b1b865bb8bb
+      internalID: 86774913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downslam(lightning)_13
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 64
+        width: 124
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35eb4871a09ee48439664dcdc6211777
+      internalID: -224010642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downslam(lightning)_14
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 64
+        width: 124
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ab4e05c0ecac246bb0efbb196e2830
+      internalID: -1839995864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downslam(lightning)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 124
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0191e918d8e345f47b17cb32918c6bb6
+      internalID: 1743733295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +455,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      downslam(lightning)_0: -1965426270
+      downslam(lightning)_1: 75171427
+      downslam(lightning)_10: -343611780
+      downslam(lightning)_11: -1787431710
+      downslam(lightning)_12: 86774913
+      downslam(lightning)_13: -224010642
+      downslam(lightning)_14: -1839995864
+      downslam(lightning)_15: 1743733295
+      downslam(lightning)_2: 196793276
+      downslam(lightning)_3: -1242436664
+      downslam(lightning)_4: -1835040795
+      downslam(lightning)_5: -116041240
+      downslam(lightning)_6: 600072290
+      downslam(lightning)_7: 93599022
+      downslam(lightning)_8: -1095851523
+      downslam(lightning)_9: -892024986
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
