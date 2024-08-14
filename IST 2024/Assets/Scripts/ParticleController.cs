@@ -17,6 +17,7 @@ public class ParticleController : MonoBehaviour
   bool isOnGround;
 
 [SerializeField] ParticleSystem fallParticle;
+
   private void Update()
   {
     counter += Time.deltaTime;
@@ -30,7 +31,7 @@ public class ParticleController : MonoBehaviour
         }
     }
   }
-  
+
   private void OnTriggerEnter2D(Collider2D collision)
   {
     if(collision.CompareTag("Ground"))
