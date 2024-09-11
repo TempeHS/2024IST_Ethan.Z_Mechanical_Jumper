@@ -130,9 +130,4 @@ public class PlayerMovement : MonoBehaviour
         yield return new WaitForSeconds(dashingCooldown);
         canDash = true;
     }
-
-    private void MiniJump
-    {
-        
-    }
 }
