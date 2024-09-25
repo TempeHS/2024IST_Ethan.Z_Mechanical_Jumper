@@ -1,6 +1,7 @@
 # 2024IST_Ethan.Z_
 <h1 align="center">
- <img src="file:///C:/Users/User/OneDrive/Pictures/Screenshots/Screenshot%202024-09-25%20210138.png">
+ <img src="![Uploading Screenshot 2024-09-25 210138.png…]()
+">
   <br />
  2024IST_Ethan.Z_
 </h1>
