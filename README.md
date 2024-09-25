@@ -1,7 +1,7 @@
 # 2024IST_Ethan.Z_
 <h1 align="center">
-<img width="1191" alt="Screen Shot 2024-09-25 at 8 43 40 pm" src="![Screenshot 2024-09-25 210138](https://github.com/user-attachments/assets/db34e561-fc88-4876-9315-3c59f7755950)">
-<br />
+ <img src="https://user-images.githubusercontent.com/45159366/97361059-45151700-185c-11eb-9d12-dae51c79eb8a.png">
+  <br />
 2024IST_Ethan.Z_
 </h1>
 
