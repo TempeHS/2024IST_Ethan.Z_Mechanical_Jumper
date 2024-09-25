@@ -22,7 +22,7 @@ yadayada
 [video link]
 
 # Movement Controls
-"![Screenshot 2024-09-25 210138](https://github.com/user-attachments/assets/24a0649f-4619-4e28-b796-7a7f5bc62774)"
+![Screenshot 2024-09-25 210138](https://github.com/user-attachments/assets/24a0649f-4619-4e28-b796-7a7f5bc62774)
 
 
 #  Tutorials
