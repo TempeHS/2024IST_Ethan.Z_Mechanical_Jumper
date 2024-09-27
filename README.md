@@ -49,6 +49,10 @@ Space - Jump
 
 Shift - Dash
 
+Objective:
+
+Escape the harrowing mind of our protagonist (Hanzo). This is a test of resilience and will as you'll have to overcome manyu obstacles and make himne reconcile with his inner self.
+
 # Documentation
 
 A little explination on how I made the game and the skills I aquired.
