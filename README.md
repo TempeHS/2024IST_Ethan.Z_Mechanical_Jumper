@@ -12,7 +12,7 @@
 3. [Interactable Object](https://github.com/TempeHS/2024IST_Ethan.Z_?tab=readme-ov-file#Interactable_Objects)
 4. .[MovementControls](https://github.com/TempeHS/2024IST_Ethan.Z_?tab=readme-ov-file#MovementControls)
 5. [Documentation](https://github.com/TempeHS/2024IST_Ethan.Z_?tab=readme-ov-file#documentation)
-6. [Collaboration](https://github.com/TempeHS/2024IST_Ethan.Z_?tab=readme-ov-file#collaboration)
+6. [Collaboration:Gerrad_Fong](https://github.com/TempeHS/2024IST_Ethan.Z_?tab=readme-ov-file#Collaboration:Gerrad_Fong)
 
 # Overview
 
@@ -74,7 +74,7 @@ I added more customisations to my game such as an interactive scroll wheel the e
 During the progress of improving my game I had learnt a lot from watching the tutorials such as the fundamental basics of game development, such as creating a structured 2D platformer with engaging background environment and simple movement controls for a platformer on unity. I also learnt the ability to create simple sprites such as the game icon and the trapdoor used in the platformer, this enhanced my understanding of multiumedia and finding out my prefered art style that works with my designs which indirectly improved my skills in pixel art. Debugging the game was a huge hassel as it took many trials and errors to really understand the code that I was implementing into my game, this made me able to smoothen out my already vibrant game as it improved my problem solving abilities.
 
 
-# Collaboration
+# Collaboration:Gerrad_Fong
 
 Sam the multimedia partner
 [add media examples]
