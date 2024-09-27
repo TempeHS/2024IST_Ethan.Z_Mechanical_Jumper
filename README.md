@@ -9,7 +9,7 @@
 
 1. [Overview](https://github.com/TempeHS/2024IST_Ethan.Z_?tab=readme-ov-file#overview)
 2. [Walkthrough](https://github.com/TempeHS/2024IST_Ethan.Z_?tab=readme-ov-file#walkthrough)
-3. [Tutorials](https://github.com/TempeHS/2024IST_Ethan.Z_?tab=readme-ov-file#InteractableObjects)
+3. [Interactable Object](https://github.com/TempeHS/2024IST_Ethan.Z_?tab=readme-ov-file#Interactable_Objects)
 4. .[MovementControls](https://github.com/TempeHS/2024IST_Ethan.Z_?tab=readme-ov-file#MovementControls)
 5. [Documentation](https://github.com/TempeHS/2024IST_Ethan.Z_?tab=readme-ov-file#documentation)
 6. [Collaboration](https://github.com/TempeHS/2024IST_Ethan.Z_?tab=readme-ov-file#collaboration)
@@ -35,7 +35,7 @@ https://github.com/user-attachments/assets/0386bc90-131e-469e-b015-28e2b48f37b0
 ![Screenshot 2024-09-25 210138](https://github.com/user-attachments/assets/24a0649f-4619-4e28-b796-7a7f5bc62774)
 
 
-#  InteractableObjects
+#  Interactable_Objects
 
 ![unnamed](https://github.com/user-attachments/assets/9bf153de-5f19-4d04-b592-c6a7a9c5b94e) 
 
