@@ -10,8 +10,9 @@
 1. [Overview](https://github.com/TempeHS/2024IST_Ethan.Z_?tab=readme-ov-file#overview)
 2. [Walkthrough](https://github.com/TempeHS/2024IST_Ethan.Z_?tab=readme-ov-file#walkthrough)
 3. [Tutorials](https://github.com/TempeHS/2024IST_Ethan.Z_?tab=readme-ov-file#tutorials)
-4. [Documentation](https://github.com/TempeHS/2024IST_Ethan.Z_?tab=readme-ov-file#documentation)
-5. [Collaboration](https://github.com/TempeHS/2024IST_Ethan.Z_?tab=readme-ov-file#collaboration)
+4. .[MovementControls](https://github.com/TempeHS/2024IST_Ethan.Z_?tab=readme-ov-file#MovementControls)
+5. [Documentation](https://github.com/TempeHS/2024IST_Ethan.Z_?tab=readme-ov-file#documentation)
+6. [Collaboration](https://github.com/TempeHS/2024IST_Ethan.Z_?tab=readme-ov-file#collaboration)
 
 # Overview
 
@@ -21,7 +22,7 @@ yadayada
 
 [video link]
 
-# Movement Controls
+# MovementControls
 ![Screenshot 2024-09-25 210138](https://github.com/user-attachments/assets/24a0649f-4619-4e28-b796-7a7f5bc62774)
 
 
