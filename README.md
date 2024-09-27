@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/0386bc90-131e-469e-b015-28e2b48f37b0
 
 #  Tutorials
 
-Controls:
+CONTROLS:
 
 A - Moves left
 
@@ -49,7 +49,7 @@ Space - Jump
 
 Shift - Dash
 
-Objective:
+OBJECTIVE:
 
 Escape the harrowing mind of our protagonist (Hanzo). This is a test of resilience and will as you'll have to overcome manyu obstacles and make himne reconcile with his inner self.
 
