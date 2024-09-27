@@ -37,6 +37,10 @@ https://github.com/user-attachments/assets/0386bc90-131e-469e-b015-28e2b48f37b0
 
 #  Tutorials
 
+Controls:
+A - Moves left
+S - Moves down
+D - Moves right
 
 # Documentation
 
