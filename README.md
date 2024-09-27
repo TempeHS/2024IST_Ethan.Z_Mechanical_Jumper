@@ -28,7 +28,8 @@ The chasm represents the differences between his inner self that had been hiding
 
 # Walkthrough
 
-[video link]
+https://github.com/user-attachments/assets/0386bc90-131e-469e-b015-28e2b48f37b0
+
 
 # MovementControls
 ![Screenshot 2024-09-25 210138](https://github.com/user-attachments/assets/24a0649f-4619-4e28-b796-7a7f5bc62774)
