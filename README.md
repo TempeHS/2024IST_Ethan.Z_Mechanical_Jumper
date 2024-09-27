@@ -56,9 +56,20 @@ The orginal plan being a 2D souls like game, where the player is tasked with kil
 
 ![unnamed](https://github.com/user-attachments/assets/290fde06-cf3a-4adc-a5bd-649b1353704e)
 
-This was the code for the permeable platforms.
+(This was the code for the permeable platforms)
 
-For the asset I implemented a walking/idle animation but he couldn't make a jumping animation as he didn't have enough time and my cursor which was an asset I had borrowed off the internet. The tiles and lanterns were awsset6s borrowed from unity asset store as I realised that I didn't have the ability to implement the complex attack animation that my partner created so I switched plans and created a platformer instead.
+For the asset I implemented a walking/idle animation but he couldn't make a jumping animation as he didn't have enough time and my cursor which was an asset I had borrowed off the internet. The tiles and lanterns were assets borrowed from unity asset store as I realised that I didn't have the ability to implement the complex attack animation that my partner created so I switched plans and created a platformer instead. To increase the difficulty of my game I added a water obstacle that resets your position the moment you touch the object.
+
+![unnamed](https://github.com/user-attachments/assets/820ef7c0-4932-4714-a379-ee8c285b4fbc)
+
+(Code for respawning water)
+
+I added more customisations to my game such as an interactive scroll wheel the enlarges the camera or zooms for a better view of the game and also implemented the ability for the camera to follow the player around so the player wouldn't lose their sight on their character.
+
+![unnamed](https://github.com/user-attachments/assets/cb56ca05-1fd7-4cfd-a5f5-2d20134238e9)
+![unnamed](https://github.com/user-attachments/assets/3becf3ee-00dc-4242-84f2-0485c8446450)
+
+(Code for camera movement and zooming feature)
 
 
 # Collaboration
