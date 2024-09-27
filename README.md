@@ -76,5 +76,14 @@ During the progress of improving my game I had learnt a lot from watching the tu
 
 # Collaboration:Gerrad_Fong
 
-Sam the multimedia partner
-[add media examples]
+![background](https://github.com/user-attachments/assets/dbbef2dd-056c-44be-939a-50218e5f7b42)
+![walking](https://github.com/user-attachments/assets/99508658-6818-482f-81d0-96a114bfc3d9)
+![idle](https://github.com/user-attachments/assets/7cee693d-e32b-49fd-8a6f-2f9329ad1b5a)
+![fishman](https://github.com/user-attachments/assets/416eb5e6-f38a-431d-93e0-8009b37539cd)
+![turretbeam](https://github.com/user-attachments/assets/593b0d84-6b1f-43d3-8a2b-b642ffe51a2f)
+![stonetile](https://github.com/user-attachments/assets/4cc02e64-65b9-4d9b-aa33-9acbca74156b)
+![dash(f)](https://github.com/user-attachments/assets/94261458-e6c9-47f6-b41e-322c7ee03f15)
+![downslam(lightning)](https://github.com/user-attachments/assets/374c5a4a-45d4-466d-982a-6953d5af7a64)
+![powerup(Lightning)](https://github.com/user-attachments/assets/7d702456-99e8-4c81-8942-7a51679d232c)
+![Angler Attack](https://github.com/user-attachments/assets/1ccd10dd-5150-4c7f-8cd1-ac61e15de328)
+
