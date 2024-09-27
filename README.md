@@ -16,7 +16,7 @@
 
 # Overview
 
-The platformer premise explores escapings one's inner self while confronting setbacks that challanges your ideals and decisions. This creates the symbolic journey of emotional and mental resilience that represents the psychology of every human being. At the centre of my game is a unfortunate victim that was trapped in a hostile environment by their inner self, this shows the doubts clouding the protagonists mind and is engaging in a internal conflict with himself. Their struggles becoming the landscape of the game, and each platform is a symbol for an obstacle that they must overcome. 
+The platformers (Hanzo's mind palace) premise explores escapings one's inner self while confronting setbacks that challanges your ideals and decisions. This creates the symbolic journey of emotional and mental resilience that represents the psychology of every human being. At the centre of my game is a unfortunate victim that was trapped in a hostile environment by their inner self, this shows the doubts clouding the protagonists mind and is engaging in a internal conflict with himself. Their struggles becoming the landscape of the game, and each platform is a symbol for an obstacle that they must overcome. 
 
 ![unnamed](https://github.com/user-attachments/assets/9bd9c86f-2641-48ca-b08d-91ce1b7556a5) 
 
