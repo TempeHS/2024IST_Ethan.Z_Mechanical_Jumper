@@ -52,7 +52,14 @@ Respawn water - Interactable object that resets you to your starting position. (
 
 # Documentation
 
-A little explination on how I made the game and the skills I aquired.
+The orginal plan being a 2D souls like game, where the player is tasked with killing hordes of enemies and bosses which represents their past trauma's. The assets my multimedia partner created is a multitude of attack animations and enemy creatures, firstly I started with the player controls, where I then tweaked the script to include a dashing ability. Around this time I tried to implement the ability to wall jump where it worked but there was an error with my wall slide script that I coudn't find a solution for so I had to scrap the ability for wall sliding. Then my next project was to include permeable platforms into my game for a more immersive gameplay, such as one way floors (Up or down) and two way floors where I combined the two different skills on a single platform.
+
+![unnamed](https://github.com/user-attachments/assets/290fde06-cf3a-4adc-a5bd-649b1353704e)
+
+This was the code for the permeable platforms.
+
+For the asset I implemented a walking/idle animation but he couldn't make a jumping animation as he didn't have enough time and my cursor which was an asset I had borrowed off the internet. The tiles and lanterns were awsset6s borrowed from unity asset store as I realised that I didn't have the ability to implement the complex attack animation that my partner created so I switched plans and created a platformer instead.
+
 
 # Collaboration
 
