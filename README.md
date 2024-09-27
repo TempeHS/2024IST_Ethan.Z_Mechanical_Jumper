@@ -17,6 +17,7 @@
 # Overview
 
 The platformer premise explores escapings one's inner self while confronting setbacks that challanges your ideals and decisions. This creates the symbolic journey of emotional and mental resilience that represents the psychology of every human being. At the centre of my game is a unfortunate victim that was trapped in a hostile environment by their inner self, this shows the doubts clouding the protagonists mind and is engaging in a internal conflict with himself. Their struggles becoming the landscape of the game, and each platform is a symbol for an obstacle that they must overcome. 
+
 ![unnamed](https://github.com/user-attachments/assets/ddb6fb19-b2d6-4031-a386-b7addb5875ff)
 The chasm represents the differences between his inner self that had been hiding and the current facade he was putting for show, and the platforms allowing for the possibilities of him embracing his inner self.
 
