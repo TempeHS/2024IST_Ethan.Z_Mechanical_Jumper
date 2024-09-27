@@ -47,6 +47,8 @@ D - Moves right
 
 Space - Jump
 
+Shift - Dash
+
 # Documentation
 
 A little explination on how I made the game and the skills I aquired.
